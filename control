@@ -1,0 +1,9 @@
+Package: com.patrick.onetwokey
+Name: OneTwoKey
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Brings Back The iOS 12 "123" Button Format On The iOS 13 Keyboard.
+Maintainer: Patrick
+Author: Patrick
+Section: Tweaks
